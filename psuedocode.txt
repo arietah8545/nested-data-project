@@ -1,0 +1,5 @@
+1. Ask the user what borough they would like to know how many active projects there are.
+2. Store the users answer in a variable.
+3. Find the data in the hash associated with that borough.
+4. Count the number of active project within that borough.
+5. Return the number.
